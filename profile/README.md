@@ -1,6 +1,6 @@
 ## Ruby OAuth
 
-🙋‍♀️ What is this? Ruby OAuth develops core OAuth libraries for Ruby, including for the 1.0a, 2.0, 2.1, and OIDC protocols.
+🙋‍♀️ Ruby OAuth develops core OAuth libraries for Ruby, including for the 1.0a, 2.0, 2.1, and OIDC protocols.
 
 | Rank                                                                                                   | Description                          | 🐙:GitHub                                                              | 💎:RubyGems                                            | 👩‍💻:Docs                                               | Donate <br/> or <br/> Sponsor |  |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|-------------------------------|--|
@@ -34,7 +34,7 @@ preferred funding platform due to its transparency.
 **If you're working in a company that's making significant use of ruby-oauth tools we'd
 appreciate it if you suggest to your company to become a ruby-oauth sponsor.**
 
-You can support the development of RuboCop via
+You can support the development of Ruby OAuth via
 [GitHub Sponsors][spon],
 [Liberapay](https://liberapay.com/pboling/donate),
 [PayPal](https://www.paypal.com/paypalme/peterboling),
