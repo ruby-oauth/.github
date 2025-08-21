@@ -2,13 +2,13 @@
 
 🙋‍♀️ What is this? Ruby OAuth develops core OAuth libraries for Ruby, including for the 1.0a, 2.0, 2.1, and OIDC protocols.
 
-| Rank                                                                                             | Description                          | 🐙:GitHub                                                              | 💎:RubyGems                                            | 👩‍💻:Docs                                               | Donate     | Sponsor |
-|--------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|------------|---------|
-| [![oauth2](https://img.shields.io/gem/rd/oauth2.svg)](https://bestgems.org/gems/oauth2)          | 🔐 OAuth 2.0, 2.1, OIDC client       | 🐙:[ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2)           | [💎oauth2](https://rubygems.org/gems/oauth2)           | [oauth2.galtzo.com](https://oauth2.galtzo.com)           | [🫰][fund] | [💲][fund] |
-| [![oauth](https://img.shields.io/gem/rd/oauth.svg)](https://bestgems.org/gems/oauth)             | 🔑 OAuth 1.0a client and server      | 🐙:[ruby-oauth/oauth](https://github.com/ruby-oauth/oauth)             | [💎oauth](https://rubygems.org/gems/oauth)             | [oauth.galtzo.com](https://oauth.galtzo.com)             | [🫰][fund] | [💲][fund] |
-| [![oauth-tty](https://img.shields.io/gem/rd/oauth-tty.svg)](https://bestgems.org/gems/oauth-tty) | 🖥️ OAuth 1.0a TTY CLI               | 🐙:[ruby-oauth/oauth-tty](https://github.com/ruby-oauth/oauth-tty)     | [💎oauth-tty](https://rubygems.org/gems/oauth-tty)     | [oauth-tty.galtzo.com](https://oauth-tty.galtzo.com)     | [🫰][fund] | [💲][fund] |
-| [![snaky_hash](https://img.shields.io/gem/rd/snaky_hash.svg)](https://bestgems.org/gems/snaky_hash)                                                                                       | 🐍 A Hashie::Mash joint, #snake_life | 🐙:[ruby-oauth/snaky_hash](https://github.com/ruby-oauth/snaky_hash)   | [💎snaky_hash](https://rubygems.org/gems/snaky_hash)   | [snaky-hash.galtzo.com](https://snaky-hash.galtzo.com)   | [🫰][fund] | [💲][fund] |
-| [![version_gem](https://img.shields.io/gem/rd/version_gem.svg)](https://bestgems.org/gems/version_gem)                                                                                      | 🔖 Version module sugar              | 🐙:[ruby-oauth/version_gem](https://github.com/ruby-oauth/version_gem) | [💎version_gem](https://rubygems.org/gems/version_gem) | [version-gem.galtzo.com](https://version-gem.galtzo.com) | [🫰][fund] | [💲][fund] |
+| Rank                                                                                                   | Description                          | 🐙:GitHub                                                              | 💎:RubyGems                                            | 👩‍💻:Docs                                               | Donate <br/> or <br/> Sponsor |  |
+|--------------------------------------------------------------------------------------------------------|--------------------------------------|------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|-------------------------------|--|
+| [![oauth2](https://img.shields.io/gem/rd/oauth2.svg)](https://bestgems.org/gems/oauth2)                | 🔐 OAuth 2.0, 2.1, OIDC client       | 🐙:[ruby-oauth/oauth2](https://github.com/ruby-oauth/oauth2)           | [💎oauth2](https://rubygems.org/gems/oauth2)           | [oauth2.galtzo.com](https://oauth2.galtzo.com)           | [🫰][fund][💲][spon]          |  |
+| [![oauth](https://img.shields.io/gem/rd/oauth.svg)](https://bestgems.org/gems/oauth)                   | 🔑 OAuth 1.0a client and server      | 🐙:[ruby-oauth/oauth](https://github.com/ruby-oauth/oauth)             | [💎oauth](https://rubygems.org/gems/oauth)             | [oauth.galtzo.com](https://oauth.galtzo.com)             | [🫰][fund][💲][spon]          |  |
+| [![oauth-tty](https://img.shields.io/gem/rd/oauth-tty.svg)](https://bestgems.org/gems/oauth-tty)       | 🖥️ OAuth 1.0a TTY CLI               | 🐙:[ruby-oauth/oauth-tty](https://github.com/ruby-oauth/oauth-tty)     | [💎oauth-tty](https://rubygems.org/gems/oauth-tty)     | [oauth-tty.galtzo.com](https://oauth-tty.galtzo.com)     | [🫰][fund] [💲][spon]         |  |
+| [![snaky_hash](https://img.shields.io/gem/rd/snaky_hash.svg)](https://bestgems.org/gems/snaky_hash)    | 🐍 A Hashie::Mash joint, #snake_life | 🐙:[ruby-oauth/snaky_hash](https://github.com/ruby-oauth/snaky_hash)   | [💎snaky_hash](https://rubygems.org/gems/snaky_hash)   | [snaky-hash.galtzo.com](https://snaky-hash.galtzo.com)   | [🫰][fund] [💲][spon]         |  |
+| [![version_gem](https://img.shields.io/gem/rd/version_gem.svg)](https://bestgems.org/gems/version_gem) | 🔖 Version module sugar              | 🐙:[ruby-oauth/version_gem](https://github.com/ruby-oauth/version_gem) | [💎version_gem](https://rubygems.org/gems/version_gem) | [version-gem.galtzo.com](https://version-gem.galtzo.com) | [🫰][fund] [💲][spon]         |  |
 
 🌈 Contribution guidelines - each project has a `CONTRIBUTING.md` file in the root of the repo. Check it out!
 
@@ -35,10 +35,11 @@ preferred funding platform due to its transparency.
 appreciate it if you suggest to your company to become a ruby-oauth sponsor.**
 
 You can support the development of RuboCop via
-[GitHub Sponsors](https://github.com/sponsors/pboling),
+[GitHub Sponsors][spon],
 [Liberapay](https://liberapay.com/pboling/donate),
 [PayPal](https://www.paypal.com/paypalme/peterboling),
 [Open Collective][fund]
 and [Tidelift](https://tidelift.com/subscription/pkg/rubygems-oauth2?utm_source=rubygems-oauth2&utm_medium=referral&utm_campaign=readme).
 
+[spon]: https://github.com/sponsors/pboling
 [fund]: https://opencollective.com/ruby-oauth
